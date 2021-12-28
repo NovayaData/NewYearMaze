@@ -1223,7 +1223,7 @@ C84.9,340.8,83.5,339.5,81.9,339.5z" />
 	return (
 		<div>
 			<h2 className="title">Помогите Деду Морозу доставить подарки</h2>
-			<p className="subtitle">Нажмите на ведомства и подарки чтобы их соединить и узнать сколько было потрачено</p>
+			<p className="subtitle">Нажмите на ведомство и на закупку, чтобы их соединить</p>
 			<div className="list">
 				{data.map((item, index) => (
 					<p key={index} className="item">{index + 1} — {item.ministery_name}</p>
