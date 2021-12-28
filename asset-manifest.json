@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/NewYearMaze/static/css/main.4b2386a4.css",
+    "main.js": "/NewYearMaze/static/js/main.166bd3e5.js",
+    "static/media/logo.svg": "/NewYearMaze/static/media/logo.8021957c507d9bd6de5fd6bdaf3e4681.svg",
+    "index.html": "/NewYearMaze/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4b2386a4.css",
+    "static/js/main.166bd3e5.js"
+  ]
+}
