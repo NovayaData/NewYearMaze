@@ -1221,7 +1221,7 @@ C84.9,340.8,83.5,339.5,81.9,339.5z" />
 	}, [price]);
 
 	return (
-		<div style="flex-grow: 1">
+		<div style={{ flexGrow: 1 }} >
 			<h2 className="title">Помогите Деду Морозу доставить подарки</h2>
 			<p className="subtitle">Нажмите на ведомство и на закупку, чтобы их соединить</p>
 			<div className="list">
