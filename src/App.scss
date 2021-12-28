@@ -1,0 +1,89 @@
+  .st0{fill:#BE381D;}
+	.st1{fill:#494A4D;}
+	.st2{fill:url(#SVGID_1_);}
+	.st3{opacity:0.75;fill:#FFFFFF;enable-background:new    ;}
+	.st4{opacity:0.5;fill:#FABE00;enable-background:new    ;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#212125;}
+	.st7{fill:#41A835;}
+	.st8{opacity:0.5;fill:url(#SVGID_00000039817790698867680960000010693557715316711063_);enable-background:new    ;}
+	.st9{fill:url(#SVGID_00000074444350579439615220000016895308454249416110_);}
+	.st10{opacity:0.4;fill:#0CAAE3;enable-background:new    ;}
+	.st11{opacity:0.2;fill:#0CAAE3;enable-background:new    ;}
+	.st12{fill:#0CAAE3;}
+	.st13{opacity:0.5;fill:url(#SVGID_00000001647061126127563660000017548128482198266278_);enable-background:new    ;}
+	.st14{fill:url(#SVGID_00000131367547985709343110000001317085127482150316_);}
+	
+		.st15{opacity:0.5;fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_00000143596503028453148340000005534748799811663238_);enable-background:new    ;}
+	.st16{opacity:0.75;fill:url(#SVGID_00000130645256057660522590000005669546196150258313_);enable-background:new    ;}
+	.st17{opacity:0.75;fill:url(#SVGID_00000026864705943459065900000011702726398741348007_);enable-background:new    ;}
+	.st18{fill:#BE381D;stroke:#494A4D;stroke-width:0.75;stroke-miterlimit:10;}
+	.st19{opacity:0.5;fill:url(#SVGID_00000129896659904331189220000010134352861949139089_);enable-background:new    ;}
+	.st20{opacity:0.5;fill:url(#SVGID_00000033366110478211627040000008655647759099961996_);enable-background:new    ;}
+	.st21{fill:url(#SVGID_00000074435307231965638140000017480576966761165738_);}
+	.st22{fill:url(#SVGID_00000101786245894315635100000015355773128350387597_);}
+	.st23{opacity:0.75;}
+	.st24{fill:url(#SVGID_00000173883029770717344490000015824195982812075650_);}
+	.st25{fill:#00ACE5;}
+	.st26{fill:none;stroke:#E3E4E5;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st27{fill:#E3E4E5;}
+
+.svg {
+  display: block;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.title {
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 15px;
+}
+
+.list {
+  font-size: 13px;
+}
+
+.item {
+	margin: 4px 0;
+}
+
+.price {
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.source {
+  font-size: 13px; 
+  color: #b0b0b0;
+  margin-bottom: 22px;
+}
+
+.logo {
+  width: 160px;
+}
+
+.activeCircle {
+  circle {
+    fill: #00ace5;
+  }
+}
+
+.activeLine {
+  path {
+    stroke: #00ace5;
+  }
+}
+
+.svgItem {
+  cursor: pointer;
+  pointer-events: bounding-box;
+  outline: none;
+}
+
+.tooltip {
+  max-width: 200px;
+}

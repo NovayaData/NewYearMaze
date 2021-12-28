@@ -1,0 +1,50 @@
+[
+    {
+        "ministery_num": 1,
+        "ministery_pic_path": "1_snowflake.svg",
+        "ministery_name": "МВД",
+        "gift_description": "Походный набор с мангалом и шампурами",
+        "gift_pic_path": "1_gift.svg",
+        "price": 1350000
+    },
+    {
+        "ministery_num": 2,
+        "ministery_pic_path": "2_snowflake.svg",
+        "ministery_name": "Правительство Омской области",
+        "gift_description": "Икона Сильвестра Омского",
+        "gift_pic_path": "2_gift.svg",
+        "price": 75000
+    },
+    {
+        "ministery_num": 3,
+        "ministery_pic_path": "3_snowflake.svg",
+        "ministery_name": "Правительство Якутии",
+        "gift_description": "Мини-слитки серебра с гравировкой",
+        "gift_pic_path": "3_gift.svg",
+        "price": 199920
+    },
+    {
+        "ministery_num": 4,
+        "ministery_pic_path": "4_snowflake.svg",
+        "ministery_name": "Таможня",
+        "gift_description": "Кортик наградной из дамасcкой стали",
+        "gift_pic_path": "4_gift.svg",
+        "price": 403769
+    },
+    {
+        "ministery_num": 5,
+        "ministery_pic_path": "5_snowflake.svg",
+        "ministery_name": "НИИ организации здравоохранения Москвы",
+        "gift_description": "Поп-ит и бутылка с таблетницей",
+        "gift_pic_path": "5_gift.svg",
+        "price": 5161080
+    },
+    {
+        "ministery_num": 6,
+        "ministery_pic_path": "6_snowflake.svg",
+        "ministery_name": "Администрация губернатора Пермского края",
+        "gift_description": "Пельменница и банка в форме матрешки-медведя",
+        "gift_pic_path": "6_gift.svg",
+        "price": 912500
+    }
+]
