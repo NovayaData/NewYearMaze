@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/NewYearMaze/static/css/main.a0a92281.css",
-    "main.js": "/NewYearMaze/static/js/main.4dbc852a.js",
+    "main.js": "/NewYearMaze/static/js/main.1910ad56.js",
     "static/media/bg_df.png": "/NewYearMaze/static/media/bg_df.481a11418e2c7fa65070.png",
     "static/media/logo.svg": "/NewYearMaze/static/media/logo.8021957c507d9bd6de5fd6bdaf3e4681.svg",
     "index.html": "/NewYearMaze/index.html"
   },
   "entrypoints": [
     "static/css/main.a0a92281.css",
-    "static/js/main.4dbc852a.js"
+    "static/js/main.1910ad56.js"
   ]
 }
