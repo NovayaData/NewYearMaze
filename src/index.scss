@@ -8,3 +8,10 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #494a4d;
 }
+
+#root {
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    height: 922px;
+}

@@ -1229,7 +1229,7 @@ C84.9,340.8,83.5,339.5,81.9,339.5z" />
 					<p key={index} className="item">{index + 1} — {item.ministery_name}</p>
 				))}
 			</div>
-			<div className="price">Всего закупили на: <span ref={priceRef}>0</span> руб</div>
+			<div className="price">Всего закупили на: <span ref={priceRef}>?</span> руб</div>
 			<svg className="svg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" viewBox="0 0 375 397.1" style={{ enableBackground: 'new 0 0 375 397.1' }} xmlSpace="preserve">
 				{svgItems.map((path, index) => (
 					<g data-place={tooltipPlaces[index]} data-tip={tooltips[index]} onClick={() => handleClick(index)} className="svgItem" key={index}>
