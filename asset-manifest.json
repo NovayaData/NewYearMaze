@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/NewYearMaze/static/css/main.4b2386a4.css",
-    "main.js": "/NewYearMaze/static/js/main.06edbf7e.js",
+    "main.css": "/NewYearMaze/static/css/main.ab44d9a5.css",
+    "main.js": "/NewYearMaze/static/js/main.acabd5b1.js",
     "static/media/logo.svg": "/NewYearMaze/static/media/logo.8021957c507d9bd6de5fd6bdaf3e4681.svg",
     "index.html": "/NewYearMaze/index.html"
   },
   "entrypoints": [
-    "static/css/main.4b2386a4.css",
-    "static/js/main.06edbf7e.js"
+    "static/css/main.ab44d9a5.css",
+    "static/js/main.acabd5b1.js"
   ]
 }
