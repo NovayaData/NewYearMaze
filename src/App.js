@@ -1196,9 +1196,9 @@ C84.9,340.8,83.5,339.5,81.9,339.5z" />
 
 	useLayoutEffect(() => {
 		const getFormattedPrice = (price) => {
-			if ((price / 1000000) >= 1) return `${(price / 1000000).toFixed(1)} млн`;
+			if ((price / 1000000) >= 1) return `${(price / 1000000).toFixed(1)} млн`.replace('.0', '').replace('.', ',');
 
-			return `${(price / 1000).toFixed(1)} тыс`;
+			return `${(price / 1000).toFixed(1)} тыс`.replace('.0', '').replace('.', ',');
 		};
 
 		const outNum = (num) => {
